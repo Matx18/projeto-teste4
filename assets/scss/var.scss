@@ -1,0 +1,11 @@
+// Variável:
+$color1: #33cc33;
+$color2: blue;
+$color3: #FFF;
+
+// mixin 
+@mixin display-row() {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
